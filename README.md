@@ -1,4 +1,5 @@
-# LeetCode
+# LeetCode questions daily
+
 
 This repository contains my solutions to LeetCode problems.
 
